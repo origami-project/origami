@@ -1,0 +1,16 @@
+[submodule "h2-proxy"]
+	path = h2-proxy
+	url = git@github.com:origami-project/h2-proxy.git
+	branch = master
+[submodule "client"]
+	path = client
+	url = git@github.com:origami-project/client.git
+	branch = master
+[submodule "admin"]
+	path = admin
+	url = git@github.com:origami-project/admin.git
+	branch = master
+[submodule "api"]
+	path = api
+	url = git@github.com:origami-project/api.git
+	branch = master
